@@ -24,6 +24,13 @@ Dashboard of all the worksheets combined providing an insight on the bank custom
 Making the dashboard interactive by applying use as filter to worksheets so that the factor of changes can be visualized and identified.
 <img width="959" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/b0709939-efa5-41db-b354-b07d5eeedc5c">
 
+Storyboard for England's bank customers
+<img width="956" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/d78ba321-53e9-43b1-9df9-7e9297cebe46">
+They are mostly white collared employees (70%)
+
+Storyboard for Scotalnd which seems to be predominantly blue collered (48%)
+<img width="959" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/107fe772-64a9-46a4-acf9-f492ed0e6994">
+
 
 
 
