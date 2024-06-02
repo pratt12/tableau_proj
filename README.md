@@ -1,4 +1,4 @@
-# tableau_proj
+# Tableau_Dashboards 
 Tableau Dashboards for some specific instances and then moving on to a full fledged project.
 
 Annual Bonus analysis for some employees based on their Regions.
