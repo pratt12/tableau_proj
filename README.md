@@ -5,9 +5,10 @@ Creating worksheets and then finally a dashboard for the customers of a bank in 
 Starting off with the areas of the UK being covered
 <img width="957" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/0838043e-7ce7-4b7f-8c79-7e645323f8ad">
 
-
+Going with the customers based on the genders
 <img width="959" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/d84c45cb-24eb-4e51-a230-d4ac5b2fe93c">
 
+Next comes the customers' age distribution.
 <img width="954" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/5106a230-18f9-4e85-93a3-389f359523ab">
 
 Creating a parameter and anlysing the customer bank balance.
