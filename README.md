@@ -8,8 +8,9 @@ Starting off with the areas of the UK being covered
 Going with the customers based on the genders
 <img width="959" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/d84c45cb-24eb-4e51-a230-d4ac5b2fe93c">
 
-Next comes the customers' age distribution.
-<img width="954" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/5106a230-18f9-4e85-93a3-389f359523ab">
+Next comes the customers' age distribution along with a parameter to change and analyze the modification.
+<img width="957" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/e4507c46-4db6-491c-b4d4-b3ecb90f7fae">
+
 
 Creating a parameter and anlysing the customer bank balance.
 <img width="956" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/47250a8c-6505-47e9-b45c-294d1675d03a">
