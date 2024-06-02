@@ -26,6 +26,7 @@ Making the dashboard interactive by applying use as filter to worksheets so that
 
 Storyboard for England's bank customers
 <img width="956" alt="image" src="https://github.com/pratt12/tableau_proj/assets/69366735/d78ba321-53e9-43b1-9df9-7e9297cebe46">
+
 They are mostly white collared employees (70%)
 
 Storyboard for Scotalnd which seems to be predominantly blue collered (48%)
